@@ -1,0 +1,11 @@
+id,name,definition
+1,Obiettivi,Le mete che il giocatore deve raggiungere.
+2,Controllabilità,L'influenza delle scelte sul progredire della partita.
+3,Tensione,La sensazione di difficoltà o di rischio.
+4,Bilanciamento,"L'equilibrio di scelte, risorse, strategie."
+5,Incertezza,L'insicurezza riguardo l'esito di un'azione o il valore di una risorsa.
+6,Interazione,L'influenza delle scelte di un giocatore sugli avversari.
+7,Coinvolgimento,"La partecipazione del giocatore alla partita, anche al di fuori del suo turno."
+8,Variabilità,"La diversificazione di scelte, obiettivi e premi."
+9,Memoria,L'influenza del turno corrente su quelli futuri.
+10,Stabilità,L'equilibrio tra i giocatori in testa e quelli svantaggiati.

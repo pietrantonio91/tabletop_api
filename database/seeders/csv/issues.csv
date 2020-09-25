@@ -1,0 +1,24 @@
+id,name,definition
+1,Alternativa inferiore,Una delle alternative presenti in una scelta che appare chiaramente più debole rispetto a tutte le altre.
+2,Analisi-paralisi,"La dinamica per la quale il giocatore rimane come paralizzato di fronte alle numerose possibilità di azione, incapace di decidersi per una di esse."
+3,Attacco debole,"Una mossa che ha il solo effetto di danneggiare un avversario, senza che ciò comporti alcun vantaggio diretto per l'attaccante."
+4,Difficoltà di rimonta,
+5,Downtime eccessivo,"Downtime: Il tempo che un giocatore deve attendere dopo una mossa, prima di poter agire di nuovo."
+6,Eccesso di alea,Alea: Componente di incertezza determinata da meccanismi esplicitamente casuali (es: il lancio di un dado)
+7,Eccesso di scelta,Scelta: L'atto di selezionare un'alternativa all'interno di un insieme che comprenda almeno due possibilità. Una mossa che non sia automatica comporta sempre una scelta. Spesso usato impropriamente come sinonimo di alternativa.
+8,Frustrazione,"Senso di impotenza, la noia o più in generale la mancanza di divertimento."
+9,Kingmaking,La dinamica che si verifica quando un loser ha la possibilità di determinare il vincitore della partita danneggiando o favorendo esplicitamente uno dei suoi avversari.
+10,Predicibilità,"Predicibile: Riferito a un gioco, o a una singola meccanica, privi di qualunque elemento di incertezza."
+11,Ripetitività,
+12,Risorsa debole,"Una risorsa che il giocatore possiede, o che può potenzialmente acquisire, ma che non è in grado di utilizzare efficacemente."
+13,Runaway leader,"La dinamica che si verifica quando il giocatore che acquisisce un vantaggio diventa un ""leader in fuga"", ovvero risulta inarrestabile e irraggiungibile da parte dei giocatori rimasti più indietro."
+14,Sbilanciamento,Bilanciamento: Grado di equilibrio presente tra due o più elementi omogenei del sistema di gioco.
+15,Scarsa controllabilità,Controllabilità: La misura in cui il giocatore può influenzare l'andamento e l'esito della partita attraverso le proprie scelte.
+16,Scarsa interazione,Interazione: L'influenza che ciascun giocatore esercita sugli altri partecipanti attraverso le proprie scelte.
+17,Scarsa memoria,Memoria: L'insieme dei fattori che legano ogni turno di gioco al successivo.
+18,Scarsa tensione,"Tensione: La sensazione che nasce dalla percezione di una difficoltà, una competizione o un rischio."
+19,Scarsità di scelta,Scelta: L'atto di selezionare un'alternativa all'interno di un insieme che comprenda almeno due possibilità. Una mossa che non sia automatica comporta sempre una scelta. Spesso usato impropriamente come sinonimo di alternativa.
+20,Scelta cieca,Una situazione di scelta in cui non vi sono sufficienti informazioni per valutare o comparare le diverse alternative.
+21,Scelta forzata,"Una situazione di scelta in cui il giocatore ha un'unica alternativa valida, poiché le altre sono vietate da vincoli di gioco o sono tali da condurre a un'immediata sconfitta."
+22,Scelta indifferente,Una situazione di scelta in cui le alternative sono tutte più o meno equivalenti tra loro.
+23,Scelta ovvia,Una situazione di scelta in cui una delle alternative è chiaramente preponderante sulle altre.
